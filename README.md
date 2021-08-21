@@ -5,7 +5,7 @@
 
 ## How to Contact me
 
-<img align="left" alt="Discord" width="26px" src="https://discord.com/assets/f8389ca1a741a115313bede9ac02e2c0.svg"/> Harrion3680
+<img align="left" alt="Discord" width="26px" src="https://discord.com/assets/f8389ca1a741a115313bede9ac02e2c0.svg"/> Harrison3680
 
 ## My current active Projects
 [Caddical](https://github.com/Harrison3680/Caddical)
